@@ -1,2 +1,2 @@
-# c-worksplaces
+# c-workplaces
 lecture notes
